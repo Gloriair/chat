@@ -3,7 +3,6 @@
 body {
 	font: 12px arial;
 	color: #222;
-	text-align: center;
 	padding: 35px;
 }
 
@@ -25,6 +24,14 @@ body {
 	width: 430px;
 	border: 1px solid #ACD8F0;
 	overflow: auto;
+}
+
+.welcome {
+	font: 14px arial;
+	font-weight: bold;
+	color: #222;
+	text-align: center;
+	padding: 10px;
 }
 	
 	
